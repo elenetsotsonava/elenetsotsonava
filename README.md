@@ -1,7 +1,7 @@
 ## Hi I'm Elene 😊
 
 # 💫 About Me:
-🧠 Informatics student at BTU<br><br>💻 Junior Data Analyst in AI and Data Management Department<br><br> ⚙ I work with SQL, Python, Power BI<br><br>🤔 I’m looking for junior roles in data science/ML units<br><br>💬 Here you can review my projects and progress in data analysis/science<br><br>⚡ Fun fact: I am the youngest national chess champion under 20 years old when I was just 13!<br>
+🧠 Informatics student at BTU<br><br>💻  Data Analyst in AI and Data Management Department<br><br> ⚙ I work with SQL, Python, Power BI<br><br>🤔 I’m looking for roles in data science/ML units<br><br>💬 Here you can review my projects and progress in data analysis/science<br><br>⚡ Fun fact: I am the youngest national chess champion under 20 years old when I was just 13!<br>
 
 
 ## 🌐 Socials:
